@@ -1,3 +1,6 @@
+# See more about me:
+https://www.linkedin.com/in/gon%C3%A7alo-rocha-2a380519b/
+
 # Languages, Frameworks & Tools:
 <img align="left" alt="JS" width="28px" src="https://user-images.githubusercontent.com/68713770/100375460-b97ed980-3005-11eb-8cdf-d2b286b2ca5c.png" />
 <img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -7,6 +10,5 @@
 <img align="left" alt="BOOTS" width="28px" src="https://user-images.githubusercontent.com/68713770/100374555-60627600-3004-11eb-8f34-e6c6f8936c3c.png" />
 <img align="left" alt="VUE" width="28px" src="https://user-images.githubusercontent.com/68713770/100375295-791f5b80-3005-11eb-876f-623dd323cdaa.png" />
 <img align="left" alt="ANDROID" width="28px" src="https://user-images.githubusercontent.com/68713770/100374792-b800e180-3004-11eb-8444-b2fc28e76baa.png" />
-<br>
-# See more about me:
-https://www.linkedin.com/in/gon%C3%A7alo-rocha-2a380519b/
+
+
