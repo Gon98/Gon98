@@ -7,6 +7,6 @@
 <img align="left" alt="BOOTS" width="28px" src="https://user-images.githubusercontent.com/68713770/100374555-60627600-3004-11eb-8f34-e6c6f8936c3c.png" />
 <img align="left" alt="VUE" width="28px" src="https://user-images.githubusercontent.com/68713770/100375295-791f5b80-3005-11eb-876f-623dd323cdaa.png" />
 <img align="left" alt="ANDROID" width="28px" src="https://user-images.githubusercontent.com/68713770/100374792-b800e180-3004-11eb-8444-b2fc28e76baa.png" />
-
+<br>
 # See more about me:
 https://www.linkedin.com/in/gon%C3%A7alo-rocha-2a380519b/
