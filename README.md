@@ -1,14 +1,29 @@
-# See more about me:
-https://www.linkedin.com/in/gon%C3%A7alo-rocha-2a380519b/
-
-# Languages, Frameworks & Tools:
-<img align="left" alt="JS" width="28px" src="https://user-images.githubusercontent.com/68713770/100375460-b97ed980-3005-11eb-8cdf-d2b286b2ca5c.png" />
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JS" width="20px" src="https://user-images.githubusercontent.com/68713770/100373975-820f2d80-3003-11eb-86ec-cf0a2d7f81ef.png" /> 
-<img align="left" alt="PHP" width="30px" src="https://user-images.githubusercontent.com/68713770/100375764-390ca880-3006-11eb-80d9-6d04e0cdda38.png" /> 
-<img align="left" alt="BOOTS" width="28px" src="https://user-images.githubusercontent.com/68713770/100374555-60627600-3004-11eb-8f34-e6c6f8936c3c.png" />
-<img align="left" alt="VUE" width="28px" src="https://user-images.githubusercontent.com/68713770/100375295-791f5b80-3005-11eb-876f-623dd323cdaa.png" />
-<img align="left" alt="ANDROID" width="28px" src="https://user-images.githubusercontent.com/68713770/100374792-b800e180-3004-11eb-8444-b2fc28e76baa.png" />
-
-
+## Welcome to my github profile
+<div align="center">
+  <a href="https://github.com/Gon98">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gon98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gon98&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
+  &nbsp; &nbsp;
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:rochacardoso1@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gonçalo-rocha-2a380519b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+ 
+</div>
