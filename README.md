@@ -4,18 +4,23 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gon98&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gon98&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
-  &nbsp; &nbsp;
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
+  <h4>Developer experience</h4>
+  <img align="center" height="30" src="https://github.com/Gon98/Gon98/assets/68713770/864c5ac2-ad3b-4e78-aa52-573c668a85bf">
+  <img align="center" height="30" src="https://github.com/Gon98/Gon98/assets/68713770/b284419d-3785-42a5-931d-4b28f987e9da">
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" src="https://github.com/Gon98/Gon98/assets/68713770/8ae87ec9-cddf-44af-a703-9424410c0769">
+  <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+    
+<div style="display: inline_block"><br>
+  <h4>Design experience</h4>
+  <img align="center" height="40" src="https://github.com/Gon98/Gon98/assets/68713770/f00f9b75-6b94-42dd-a915-f8edeaa24d15">
+  <img align="center" height="28" src="https://github.com/Gon98/Gon98/assets/68713770/c6b08031-6bec-45b7-9a2c-39b1ba7a2af9">
 </div>
   
   ##
@@ -24,4 +29,3 @@
   <a href = "mailto:rochacardoso1@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gonçalo-rocha-2a380519b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-![WordPress_blue_logo svg](https://github.com/Gon98/Gon98/assets/68713770/0f6a73ce-835f-48aa-aba0-ca7561d5e988)
