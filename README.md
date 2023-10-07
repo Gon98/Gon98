@@ -6,7 +6,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <h3>Developer experience</h3>
+  <h4>Developer experience</h4>
   <img align="center" height="30" src="https://github.com/Gon98/Gon98/assets/68713770/864c5ac2-ad3b-4e78-aa52-573c668a85bf">
   <img align="center" height="30" src="https://github.com/Gon98/Gon98/assets/68713770/b284419d-3785-42a5-931d-4b28f987e9da">
   &nbsp;&nbsp;
