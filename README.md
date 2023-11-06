@@ -13,13 +13,15 @@
   <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <img align="center" height="28" src="https://github.com/Gon98/Gon98/assets/68713770/a8f4485d-6282-474d-b56a-49a3dc855242">
 </div>
     
 <div style="display: inline_block"><br>
   <h4>Design Experience</h4>
   <img align="center" height="40" src="https://github.com/Gon98/Gon98/assets/68713770/f00f9b75-6b94-42dd-a915-f8edeaa24d15">
   <img align="center" height="28" src="https://github.com/Gon98/Gon98/assets/68713770/c6b08031-6bec-45b7-9a2c-39b1ba7a2af9">
-    <img align="center" height="28" src="https://github.com/Gon98/Gon98/assets/68713770/a8f4485d-6282-474d-b56a-49a3dc855242">
 </div>
   
   ##
