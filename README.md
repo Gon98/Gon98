@@ -16,8 +16,8 @@
   &nbsp;&nbsp;
   &nbsp;&nbsp;
   <img align="center" height="30" src="https://github.com/Gon98/Gon98/assets/68713770/a8f4485d-6282-474d-b56a-49a3dc855242">
-</div>
-    
+  <img align="center" height="30" src="https://github.com/Gon98/Gon98/assets/68713770/d045fc0e-aa65-42c8-8ab2-0a20b4702f2a">
+  
 <div style="display: inline_block"><br>
   <h4>Design Experience</h4>
   <img align="center" height="40" src="https://github.com/Gon98/Gon98/assets/68713770/f00f9b75-6b94-42dd-a915-f8edeaa24d15">
