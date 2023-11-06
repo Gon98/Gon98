@@ -15,7 +15,7 @@
   <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;
   &nbsp;&nbsp;
-  <img align="center" height="28" src="https://github.com/Gon98/Gon98/assets/68713770/a8f4485d-6282-474d-b56a-49a3dc855242">
+  <img align="center" height="30" src="https://github.com/Gon98/Gon98/assets/68713770/a8f4485d-6282-474d-b56a-49a3dc855242">
 </div>
     
 <div style="display: inline_block"><br>
