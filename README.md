@@ -15,8 +15,8 @@
   <img align="center" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   &nbsp;&nbsp;
   &nbsp;&nbsp;
-  <img align="center" height="38" src="https://github.com/Gon98/Gon98/assets/68713770/3c32e0dc-89a7-4cd8-9849-176c085fc7d8">
-  <img align="center" height="30" src="https://github.com/Gon98/Gon98/assets/68713770/c68ea6e3-0fd9-412f-bfa9-778c1a6e62c4">
+  <img align="center" height="28" src="https://github.com/Gon98/Gon98/assets/68713770/3c32e0dc-89a7-4cd8-9849-176c085fc7d8">
+  <img align="center" height="28" src="https://github.com/Gon98/Gon98/assets/68713770/c68ea6e3-0fd9-412f-bfa9-778c1a6e62c4">
   
 <div style="display: inline_block"><br>
   <h4>Design Experience</h4>
