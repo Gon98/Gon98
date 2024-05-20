@@ -21,7 +21,7 @@
 <div style="display: inline_block"><br>
   <h4>Design Experience</h4>
   <img align="center" height="40" src="https://github.com/Gon98/Gon98/assets/68713770/f00f9b75-6b94-42dd-a915-f8edeaa24d15">
-  <img align="center" height="30" src="https://github.com/Gon98/Gon98/assets/68713770/a8f09837-714f-4b59-9a4d-0def3f0a8919">
+  <img align="center" height="26" src="https://github.com/Gon98/Gon98/assets/68713770/a8f09837-714f-4b59-9a4d-0def3f0a8919">
 </div>
   
   ##
