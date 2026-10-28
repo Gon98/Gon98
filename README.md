@@ -1,5 +1,5 @@
 ## Welcome to my github profile 🚀
-  I’m a Software Engineer who loves turning ideas into real functional code. I’m always curious about new technologies and motivated by challenges that make me learn and improve every day.
+  I’m a Full Stack Engineer who enjoys bringing ideas to life, from backend logic to polished interfaces. I love exploring new technologies and taking on challenges that keep me learning every day.
 <h3>Languages and Tools:</h3>
 <hr>
 <p>
